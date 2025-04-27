@@ -1,6 +1,4 @@
-# standard-school-AI
-Core principles of the **Standard School Model (SSM)** — a universal framework for training and evaluating general-purpose AI systems.
-# The Standard School Model (SSM) for Artificial Intelligence
+# The Standard School Model (SSAIM) for Artificial Intelligence
 
 ## 📘 Manifesto: Educating AI Like Humans
 
@@ -8,7 +6,7 @@ We propose a bold and simple idea:
 
 > **AI should be educated like humans — using the proven structure of school education.** But instead of taking 10 years, it may take just a few days.
 
-This document defines the core principles of the **Standard School Model (SSM)** — a universal framework for training and evaluating general-purpose AI systems.
+This document defines the core principles of the **Standard School Model (SSAIM)** — a universal framework for training and evaluating general-purpose AI systems.
 
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
@@ -24,7 +22,7 @@ Most modern LLMs are trained on massive, unfiltered corpora — random code, for
 
 ---
 
-## 📚 Core Structure of SSM
+## 📚 Core Structure of SSAIM
 
 ### 1. **Universal Knowledge Base**
 
@@ -66,7 +64,7 @@ The base reasoning remains the same — like giving a smart student a new subjec
 
 ## ✅ Expected Capabilities
 
-A model conforming to the SSM standard should be able to:
+A model conforming to the SSAIM standard should be able to:
 - Pass middle/high school exams
 - Explain concepts in clear language
 - Solve standard math, logic, science problems
@@ -76,7 +74,7 @@ A model conforming to the SSM standard should be able to:
 
 ---
 
-## 🧠 Benefits of SSM
+## 🧠 Benefits of SSAIM
 
 - ✅ Transparent reasoning
 - ✅ Easy to audit and test (school-style exams)
@@ -96,6 +94,7 @@ We don’t need models trained on everything. We need models that understand **s
 Let’s stop dumping the entire internet into models and instead give them what worked for us: **a schoolbag full of well-written books and a mind ready to learn.**
 
 ---
+
 Details in [supplement](https://github.com/Soviet9773Red/suplement).
 
 Created by: **Alexander**  
