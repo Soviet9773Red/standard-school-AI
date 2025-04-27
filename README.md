@@ -95,7 +95,7 @@ Let’s stop dumping the entire internet into models and instead give them what 
 
 ---
 
-Details in [supplement](https://github.com/Soviet9773Red/suplement).
+Details in [supplement](https://github.com/Soviet9773Red/standard-school-AI/blob/main/suplement.md).
 
 Created by: **Alexander**  
 April 2025  
