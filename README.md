@@ -96,6 +96,7 @@ We don’t need models trained on everything. We need models that understand **s
 Let’s stop dumping the entire internet into models and instead give them what worked for us: **a schoolbag full of well-written books and a mind ready to learn.**
 
 ---
+Details in [supplement](https://github.com/Soviet9773Red/suplement).
 
 Created by: **Alexander**  
 April 2025  
